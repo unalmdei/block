@@ -1,2 +1,3 @@
 ARCHIVO README
-editado desde el master
+erreglando conflicto de la segunda
+linea
